@@ -131,8 +131,7 @@ def optimize(nn_last_layer, correct_label, learning_rate, num_classes):
 ```
 below are some pictures showing the FCN evolving with the training iterations
 #### 20 iterations, loss = 0.41094
-<img src="./gt20-loss:0.410944.png
-" width="600">
+<img src="./gt20-loss:0.410944.png" width="600">
 
 <img src="./prob20-loss:0.410944.png" width="800">
 #### 800 iterations, loss = 0.128092
