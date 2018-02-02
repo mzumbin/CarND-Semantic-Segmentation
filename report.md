@@ -1,9 +1,5 @@
 
-
-
-
-
-##Semantic Segmentation Project
+## Semantic Segmentation Project
 
 
 The goal of this project is build a fully convolution network FCN to perform a semantic segmentation in a image indentifying the road and background
@@ -67,7 +63,7 @@ The code below we can see the FCN-8 with two skip layer and a final upsampling o
 
 ```
 
-##Training
+## Training
 Traing was made using the Kitti dataset and augmented with the help of [imgaug] (https://github.com/aleju/imgaug) lib, above the function used to augment the dataset
 
 
