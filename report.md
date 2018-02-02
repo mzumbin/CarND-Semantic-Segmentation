@@ -3,7 +3,7 @@
 
 
 
-#Semantic Segmentation Project
+##Semantic Segmentation Project
 
 
 The goal of this project is build a fully convolution network FCN to perform a semantic segmentation in a image indentifying the road and background
