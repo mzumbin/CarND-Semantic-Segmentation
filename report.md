@@ -10,11 +10,11 @@ ex of  semantic segmentation task
 
 
 
-##Transfer Learning 
+## Transfer Learning 
 this project uses a VGG pre trained model the code to load the VGG model is in the function `def load_vgg(sess, vgg_path)`
 
-##FCN Architeture
-Striping the fully connected layer from the VGG model the CN is converted to a fully convolution network fowling the [paper] (https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf), the architecture of FCN can be seen in picture below from the same paper
+## FCN Architeture
+Striping the fully connected layer from the VGG model, the CN is converted to a fully convolution network fowlling the [paper] (https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf). The architecture of FCN can be seen in picture below from the same paper
 
 
 <img src="./figs/VGGtoFCN.png" width="600">
