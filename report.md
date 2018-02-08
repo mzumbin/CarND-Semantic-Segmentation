@@ -19,7 +19,7 @@ Striping the fully connected layer from the VGG model, the CN is converted to a 
 
 <img src="./figs/VGGtoFCN.png" width="600">
 
-The code below we can see the FCN-8 with two skip layer and a final upsampling of 8x, the skip layers helps the FCN detect feautures a different scales. 
+The code below we can see the FCN-8 with two skip layer and a final upsampling of 8x, the skip layers helps the FCN detect feautures at different scales. 
 
 ```python
  with tf.variable_scope('FCN'):
