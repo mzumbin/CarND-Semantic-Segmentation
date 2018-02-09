@@ -144,9 +144,10 @@ below are some pictures showing the FCN evolving with the training iterations
 
 ## Results
  some results after 100 epochs with batch size of 10
+
+<img src="./runs/1515620115.313297/um_000015.png" width="600">
 <img src="./runs/1515620115.313297/uu_000016.png" width="600">
 <img src="./runs/1515620115.313297/uu_000013.png" width="600">
-
 <img src="./runs/1515620115.313297/uu_000029.png" width="600">
 <img src="./runs/1515620115.313297/uu_000048.png" width="600">
 <img src="./runs/1515620115.313297/um_000093.png" width="600">
